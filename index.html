@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="bg">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Търново · splat разходка</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;1,500&family=Inter:wght@400;500&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="/src/style.css" />
+  </head>
+  <body>
+    <div id="app"></div>
+
+    <section id="intro">
+      <div class="card">
+        <p class="kicker">Gaussian splats · three.js · Spark</p>
+        <h1>Разходка из стария Търново</h1>
+        <p class="lede">Калдъръм, възрожденски къщи с еркери, фенери и изглед към Царевец — от следобедно слънце до нощното шоу „Звук и светлина“.</p>
+        <div class="actions">
+          <button id="go-walk">Влез и разходи се</button>
+          <button id="go-cine" class="ghost">Кинематографична разходка</button>
+        </div>
+        <p id="loading" class="loading"></p>
+        <p class="small">Пусни тук .spz / .ply / .splat файл (напр. от World Labs Atlas), за да разгледаш своя свят.</p>
+      </div>
+    </section>
+
+    <div id="crosshair"></div>
+
+    <div id="help">
+      <b>WASD</b> ходене · <b>Shift</b> по-бързо · <b>мишка</b> оглеждане · <b>колелце</b> бленда<br />
+      <b>N</b> ден/нощ · <b>P</b> разходка · <b>F</b> дълбочина на рязкост · <b>L</b> шоу · <b>[ ]</b> час · <b>H</b> скрий · <b>O</b> файл
+    </div>
+
+    <div id="bar">
+      <span id="clock">15:00</span>
+      <input id="tod" type="range" min="0" max="1000" value="50" aria-label="Час от денонощието" />
+      <button id="b-cycle" title="N">Ден ↔ нощ</button>
+      <button id="b-auto" title="P">Разходка</button>
+      <button id="b-dof" title="F">DoF</button>
+      <button id="b-show" title="L">Звук и светлина</button>
+      <button id="b-load" title="O">Зареди splat…</button>
+      <button id="b-back" hidden>← Търново</button>
+      <input id="file" type="file" accept=".spz,.ply,.splat,.ksplat,.sog,.zip" hidden />
+    </div>
+
+    <div id="stats"></div>
+    <div id="flash"></div>
+    <div id="drop">Пусни splat файла</div>
+
+    <script type="module" src="/src/main.js"></script>
+  </body>
+</html>

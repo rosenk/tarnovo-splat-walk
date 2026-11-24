@@ -1,0 +1,571 @@
+{
+ "contextFrames": [
+  {
+   "imageAsset": {
+    "assetId": "asset_17d8127ae35e08815a52801eb136587f"
+   },
+   "depth": {
+    "depthAsset": {
+     "assetId": "asset_63b1ca07800f77b033a9af77e413db24"
+    }
+   },
+   "camera": {
+    "extrinsics": {
+     "coordinateSystem": "rub",
+     "position": [
+      0,
+      6.321792125701904,
+      0
+     ],
+     "quaternion": [
+      0.02291141105012243,
+      0.0002632504232311877,
+      -0.011486151000498027,
+      0.9996714791760845
+     ]
+    },
+    "intrinsics": {
+     "cx": 640,
+     "cy": 360.5,
+     "fx": 980.376953125,
+     "fy": 981.0554809570312,
+     "height": 720,
+     "width": 1280
+    }
+   }
+  }
+ ],
+ "targetCameras": [
+  {
+   "extrinsics": {
+    "position": [
+     0,
+     6.322,
+     0
+    ],
+    "quaternion": [
+     0.0,
+     0.300706,
+     0.0,
+     0.953717
+    ],
+    "coordinateSystem": "rub"
+   },
+   "intrinsics": {
+    "fx": 980.376953125,
+    "fy": 981.0554809570312,
+    "cx": 640,
+    "cy": 360.5,
+    "width": 1280,
+    "height": 720
+   }
+  },
+  {
+   "extrinsics": {
+    "position": [
+     0,
+     6.322,
+     0
+    ],
+    "quaternion": [
+     0.0,
+     -0.300706,
+     0.0,
+     0.953717
+    ],
+    "coordinateSystem": "rub"
+   },
+   "intrinsics": {
+    "fx": 980.376953125,
+    "fy": 981.0554809570312,
+    "cx": 640,
+    "cy": 360.5,
+    "width": 1280,
+    "height": 720
+   }
+  },
+  {
+   "extrinsics": {
+    "position": [
+     -0.15,
+     6.374,
+     -1.3
+    ],
+    "quaternion": [
+     0.016645,
+     0.30066,
+     -0.005248,
+     0.953572
+    ],
+    "coordinateSystem": "rub"
+   },
+   "intrinsics": {
+    "fx": 980.376953125,
+    "fy": 981.0554809570312,
+    "cx": 640,
+    "cy": 360.5,
+    "width": 1280,
+    "height": 720
+   }
+  },
+  {
+   "extrinsics": {
+    "position": [
+     -0.15,
+     6.374,
+     -1.3
+    ],
+    "quaternion": [
+     0.017452,
+     0.0,
+     0.0,
+     0.999848
+    ],
+    "coordinateSystem": "rub"
+   },
+   "intrinsics": {
+    "fx": 980.376953125,
+    "fy": 981.0554809570312,
+    "cx": 640,
+    "cy": 360.5,
+    "width": 1280,
+    "height": 720
+   }
+  },
+  {
+   "extrinsics": {
+    "position": [
+     -0.15,
+     6.374,
+     -1.3
+    ],
+    "quaternion": [
+     0.016645,
+     -0.30066,
+     0.005248,
+     0.953572
+    ],
+    "coordinateSystem": "rub"
+   },
+   "intrinsics": {
+    "fx": 980.376953125,
+    "fy": 981.0554809570312,
+    "cx": 640,
+    "cy": 360.5,
+    "width": 1280,
+    "height": 720
+   }
+  },
+  {
+   "extrinsics": {
+    "position": [
+     -0.3,
+     6.426,
+     -2.6
+    ],
+    "quaternion": [
+     0.016645,
+     -0.30066,
+     0.005248,
+     0.953572
+    ],
+    "coordinateSystem": "rub"
+   },
+   "intrinsics": {
+    "fx": 980.376953125,
+    "fy": 981.0554809570312,
+    "cx": 640,
+    "cy": 360.5,
+    "width": 1280,
+    "height": 720
+   }
+  },
+  {
+   "extrinsics": {
+    "position": [
+     -0.3,
+     6.426,
+     -2.6
+    ],
+    "quaternion": [
+     0.017452,
+     0.0,
+     0.0,
+     0.999848
+    ],
+    "coordinateSystem": "rub"
+   },
+   "intrinsics": {
+    "fx": 980.376953125,
+    "fy": 981.0554809570312,
+    "cx": 640,
+    "cy": 360.5,
+    "width": 1280,
+    "height": 720
+   }
+  },
+  {
+   "extrinsics": {
+    "position": [
+     -0.3,
+     6.426,
+     -2.6
+    ],
+    "quaternion": [
+     0.016645,
+     0.30066,
+     -0.005248,
+     0.953572
+    ],
+    "coordinateSystem": "rub"
+   },
+   "intrinsics": {
+    "fx": 980.376953125,
+    "fy": 981.0554809570312,
+    "cx": 640,
+    "cy": 360.5,
+    "width": 1280,
+    "height": 720
+   }
+  },
+  {
+   "extrinsics": {
+    "position": [
+     -0.45,
+     6.478,
+     -3.9
+    ],
+    "quaternion": [
+     0.0164,
+     0.341968,
+     -0.005969,
+     0.93955
+    ],
+    "coordinateSystem": "rub"
+   },
+   "intrinsics": {
+    "fx": 980.376953125,
+    "fy": 981.0554809570312,
+    "cx": 640,
+    "cy": 360.5,
+    "width": 1280,
+    "height": 720
+   }
+  },
+  {
+   "extrinsics": {
+    "position": [
+     -0.45,
+     6.478,
+     -3.9
+    ],
+    "quaternion": [
+     0.017436,
+     0.043613,
+     -0.000761,
+     0.998896
+    ],
+    "coordinateSystem": "rub"
+   },
+   "intrinsics": {
+    "fx": 980.376953125,
+    "fy": 981.0554809570312,
+    "cx": 640,
+    "cy": 360.5,
+    "width": 1280,
+    "height": 720
+   }
+  },
+  {
+   "extrinsics": {
+    "position": [
+     -0.45,
+     6.478,
+     -3.9
+    ],
+    "quaternion": [
+     0.016858,
+     -0.25878,
+     0.004517,
+     0.965779
+    ],
+    "coordinateSystem": "rub"
+   },
+   "intrinsics": {
+    "fx": 980.376953125,
+    "fy": 981.0554809570312,
+    "cx": 640,
+    "cy": 360.5,
+    "width": 1280,
+    "height": 720
+   }
+  },
+  {
+   "extrinsics": {
+    "position": [
+     -0.6,
+     6.53,
+     -5.2
+    ],
+    "quaternion": [
+     0.017039,
+     -0.216407,
+     0.003777,
+     0.976147
+    ],
+    "coordinateSystem": "rub"
+   },
+   "intrinsics": {
+    "fx": 980.376953125,
+    "fy": 981.0554809570312,
+    "cx": 640,
+    "cy": 360.5,
+    "width": 1280,
+    "height": 720
+   }
+  },
+  {
+   "extrinsics": {
+    "position": [
+     -0.6,
+     6.53,
+     -5.2
+    ],
+    "quaternion": [
+     0.017386,
+     0.087142,
+     -0.001521,
+     0.996043
+    ],
+    "coordinateSystem": "rub"
+   },
+   "intrinsics": {
+    "fx": 980.376953125,
+    "fy": 981.0554809570312,
+    "cx": 640,
+    "cy": 360.5,
+    "width": 1280,
+    "height": 720
+   }
+  },
+  {
+   "extrinsics": {
+    "position": [
+     -0.6,
+     6.53,
+     -5.2
+    ],
+    "quaternion": [
+     0.016124,
+     0.382625,
+     -0.006679,
+     0.923739
+    ],
+    "coordinateSystem": "rub"
+   },
+   "intrinsics": {
+    "fx": 980.376953125,
+    "fy": 981.0554809570312,
+    "cx": 640,
+    "cy": 360.5,
+    "width": 1280,
+    "height": 720
+   }
+  },
+  {
+   "extrinsics": {
+    "position": [
+     -0.8,
+     6.582,
+     -6.5
+    ],
+    "quaternion": [
+     0.015881,
+     0.41463,
+     -0.007237,
+     0.909823
+    ],
+    "coordinateSystem": "rub"
+   },
+   "intrinsics": {
+    "fx": 980.376953125,
+    "fy": 981.0554809570312,
+    "cx": 640,
+    "cy": 360.5,
+    "width": 1280,
+    "height": 720
+   }
+  },
+  {
+   "extrinsics": {
+    "position": [
+     -0.8,
+     6.582,
+     -6.5
+    ],
+    "quaternion": [
+     0.017322,
+     0.121851,
+     -0.002127,
+     0.992395
+    ],
+    "coordinateSystem": "rub"
+   },
+   "intrinsics": {
+    "fx": 980.376953125,
+    "fy": 981.0554809570312,
+    "cx": 640,
+    "cy": 360.5,
+    "width": 1280,
+    "height": 720
+   }
+  },
+  {
+   "extrinsics": {
+    "position": [
+     -0.8,
+     6.582,
+     -6.5
+    ],
+    "quaternion": [
+     0.01716,
+     -0.182208,
+     0.00318,
+     0.983105
+    ],
+    "coordinateSystem": "rub"
+   },
+   "intrinsics": {
+    "fx": 980.376953125,
+    "fy": 981.0554809570312,
+    "cx": 640,
+    "cy": 360.5,
+    "width": 1280,
+    "height": 720
+   }
+  },
+  {
+   "extrinsics": {
+    "position": [
+     -0.3,
+     6.482,
+     -3.9
+    ],
+    "quaternion": [
+     0.007909,
+     -0.422602,
+     0.003688,
+     0.906273
+    ],
+    "coordinateSystem": "rub"
+   },
+   "intrinsics": {
+    "fx": 980.376953125,
+    "fy": 981.0554809570312,
+    "cx": 640,
+    "cy": 360.5,
+    "width": 1280,
+    "height": 720
+   }
+  },
+  {
+   "extrinsics": {
+    "position": [
+     -0.8,
+     6.582,
+     -6.5
+    ],
+    "quaternion": [
+     0.01548,
+     -0.461678,
+     0.008059,
+     0.886876
+    ],
+    "coordinateSystem": "rub"
+   },
+   "intrinsics": {
+    "fx": 980.376953125,
+    "fy": 981.0554809570312,
+    "cx": 640,
+    "cy": 360.5,
+    "width": 1280,
+    "height": 720
+   }
+  },
+  {
+   "extrinsics": {
+    "position": [
+     -0.8,
+     6.582,
+     -6.5
+    ],
+    "quaternion": [
+     0.034072,
+     0.216308,
+     -0.007554,
+     0.975701
+    ],
+    "coordinateSystem": "rub"
+   },
+   "intrinsics": {
+    "fx": 980.376953125,
+    "fy": 981.0554809570312,
+    "cx": 640,
+    "cy": 360.5,
+    "width": 1280,
+    "height": 720
+   }
+  },
+  {
+   "extrinsics": {
+    "position": [
+     -0.6,
+     6.532,
+     -5.2
+    ],
+    "quaternion": [
+     0.0,
+     0.984808,
+     0.0,
+     0.173648
+    ],
+    "coordinateSystem": "rub"
+   },
+   "intrinsics": {
+    "fx": 980.376953125,
+    "fy": 981.0554809570312,
+    "cx": 640,
+    "cy": 360.5,
+    "width": 1280,
+    "height": 720
+   }
+  },
+  {
+   "extrinsics": {
+    "position": [
+     -0.8,
+     6.582,
+     -6.5
+    ],
+    "quaternion": [
+     0.0,
+     -0.991445,
+     0.0,
+     0.130526
+    ],
+    "coordinateSystem": "rub"
+   },
+   "intrinsics": {
+    "fx": 980.376953125,
+    "fy": 981.0554809570312,
+    "cx": 640,
+    "cy": 360.5,
+    "width": 1280,
+    "height": 720
+   }
+  }
+ ],
+ "prompt": "{\"short_caption\":\"A stylized painterly eye-level view up a steep cobblestone lane in Veliko Tarnovo\u2019s Varusha quarter, opening toward Tsarevets fortress in autumn sun.\",\"scene\":\"An eye-level, stylized painterly streetscape places the viewer standing in a narrow, steep cobblestone lane in the old town of Veliko Tarnovo, Bulgaria, looking uphill as the street curves gently left. Bulgarian National Revival houses press close along both sides, with rough grey-beige stone ground floors, heavy dark wooden doors, projecting whitewashed and warm ochre upper stories, dark timber brackets, shuttered windows, geranium boxes, and curved terracotta roofs. At a gap between the houses on the right, a low stone parapet reveals the gorge and Tsarevets hill beyond, where medieval fortress walls and the Patriarchal church bell tower rise in the autumn light. A red vintage scooter rests against the right-hand wall amid scattered yellow leaves; the lane is entirely empty of people and cars.\",\"subjects\":[{\"name\":\"cobblestone lane\",\"description\":\"A narrow, sharply uphill old-town street paved with uneven rounded cobbles.\",\"action_or_state\":\"static, curving gently uphill to the left\",\"appearance\":\"weathered gray and brown cobbles with irregular joints, worn edges, and scattered fallen yellow leaves\",\"position_or_relationship\":\"fills the foreground and leads centrally uphill between the houses\"},{\"name\":\"revival houses\",\"description\":\"Closely packed Bulgarian National Revival houses lining both sides of the lane.\",\"action_or_state\":\"static\",\"appearance\":\"rough grey-beige stone lower levels, heavy dark wooden doors, whitewashed and warm ochre plaster upper floors projecting outward on dark timber brackets, small wooden-framed windows with green and brown shutters, red geranium window boxes, broad eaves, and curved terracotta roof tiles\",\"position_or_relationship\":\"forming a tight architectural corridor on the left and right sides of the lane\"},{\"name\":\"red vintage scooter\",\"description\":\"A compact vintage motor scooter parked beside a stone-and-plaster house wall.\",\"action_or_state\":\"parked and static on its kickstand\",\"appearance\":\"deep brick-red painted metal body, black saddle, chrome handlebar details, and small spoked wheels\",\"position_or_relationship\":\"in the right midground beneath a shuttered window, angled slightly toward the uphill lane\"},{\"name\":\"tsarevets hill\",\"description\":\"A distant hilltop fortress visible across the gorge through the right-hand opening between houses.\",\"action_or_state\":\"static\",\"appearance\":\"layered gray medieval stone walls rising through warm autumn haze, crowned by the Patriarchal church and its tall bell tower\",\"position_or_relationship\":\"beyond the low stone parapet at the right side of the composition\"}],\"setting\":\"The Varusha quarter of Veliko Tarnovo, Bulgaria, rendered as a historic hillside residential lane with dense vernacular architecture. A low, timeworn stone parapet at the right-hand gap overlooks a deep gorge toward Tsarevets hill and its fortress complex.\",\"composition\":\"Eye-level viewpoint from the center of the lane, with the cobbles creating a strong uphill leading line toward the leftward bend. The close house facades frame a deep right-side vista through the parapet opening, balancing the red scooter in the midground against the distant fortress.\",\"style\":\"A richly detailed stylized painterly cityscape with visible brush texture, architectural precision, and natural perspective. The image has the tactile atmosphere of traditional plein-air travel painting while retaining clear spatial depth and coherent building structure.\",\"lighting\":\"Warm low autumn afternoon sun enters from the left, catching ochre plaster, terracotta tiles, geranium petals, and the scooter\u2019s red paint. Long crisp shadows stretch diagonally across the uneven cobbles, while the gorge and fortress recede into softly sunlit distance.\",\"color_palette\":[\"warm ochre\",\"chalky white\",\"grey-beige stone\",\"dark walnut brown\",\"terracotta red\",\"deep moss green\",\"golden yellow\",\"brick red\"],\"materials_and_textures\":\"The lane has uneven worn stone cobbles with dry leaf litter in the joints. Facades combine coarse masonry, chalky plaster, aged dark timber, iron lantern brackets, weathered painted shutters, and curved clay roof tiles. The scooter has lightly dulled painted metal and small chrome reflections.\",\"mood\":\"quiet, historic, sun-warmed, contemplative, autumnal\",\"supporting_details\":\"Wrought-iron wall lanterns project from several facades, their curled brackets casting fine shadows onto the plaster. Red geraniums spill from dark wooden window boxes, and occasional chipped plaster exposes stone beneath. The parapet\u2019s uneven capstones frame the gorge view without obstructing the fortress walls and church tower.\",\"text_and_ocr\":{\"verbatim_strings\":[],\"visual_description\":\"none\"},\"artifacts_and_overlays\":\"none\"}",
+ "enhancePrompt": false,
+ "returnDepth": true
+}

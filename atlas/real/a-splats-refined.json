@@ -1,0 +1,1082 @@
+{
+ "posedFrames": [
+  {
+   "imageAsset": {
+    "assetId": "asset_1e959e7e1dd2863a841d356fa40447b3"
+   },
+   "depth": {
+    "depthAsset": {
+     "assetId": "asset_9e56b8a3e18d6f15c62d997cf7aecee4"
+    }
+   },
+   "camera": {
+    "extrinsics": {
+     "coordinateSystem": "rub",
+     "position": [
+      18.637269973754883,
+      1.0867924690246582,
+      -48.97850036621094
+     ],
+     "quaternion": [
+      0.07426343355517871,
+      -0.08421560890720343,
+      0.009833172516698714,
+      0.9936276880055434
+     ]
+    },
+    "intrinsics": {
+     "cx": 480,
+     "cy": 360,
+     "fx": 995.6578979492188,
+     "fy": 995.8585815429688,
+     "height": 720,
+     "width": 960
+    }
+   }
+  },
+  {
+   "imageAsset": {
+    "assetId": "asset_656dae5a969cab3dae1068bcb5183948"
+   },
+   "depth": {
+    "depthAsset": {
+     "assetId": "asset_b94ba6e8dceb391732e6b104dca6b1c9"
+    }
+   },
+   "camera": {
+    "extrinsics": {
+     "coordinateSystem": "rub",
+     "position": [
+      32.092750549316406,
+      -0.0357186533510685,
+      -67.98905944824219
+     ],
+     "quaternion": [
+      0.06972277299388825,
+      -0.07409847390756609,
+      -0.0018045156176916414,
+      0.9948089740316972
+     ]
+    },
+    "intrinsics": {
+     "cx": 480,
+     "cy": 360,
+     "fx": 1001.4656372070312,
+     "fy": 1001.6676025390625,
+     "height": 720,
+     "width": 960
+    }
+   }
+  },
+  {
+   "imageAsset": {
+    "assetId": "asset_1f4515c8f1d70d15bf156bc73a4d1553"
+   },
+   "depth": {
+    "depthAsset": {
+     "assetId": "asset_c30ac74f3a6ef12f994ca5b78e424c66"
+    }
+   },
+   "camera": {
+    "extrinsics": {
+     "coordinateSystem": "rub",
+     "position": [
+      37.50087356567383,
+      -1.1458353996276855,
+      -79.5115966796875
+     ],
+     "quaternion": [
+      0.11229771482184527,
+      -0.12128256899709283,
+      0.025462701240405283,
+      0.9859165342709284
+     ]
+    },
+    "intrinsics": {
+     "cx": 480,
+     "cy": 360,
+     "fx": 1007.8246459960938,
+     "fy": 1008.0277099609375,
+     "height": 720,
+     "width": 960
+    }
+   }
+  },
+  {
+   "imageAsset": {
+    "assetId": "asset_f670df3240e785252011feb3b7c8c6ee"
+   },
+   "depth": {
+    "depthAsset": {
+     "assetId": "asset_6b907140cf672efa1394042f65ea7ee2"
+    }
+   },
+   "camera": {
+    "extrinsics": {
+     "coordinateSystem": "rub",
+     "position": [
+      18.637,
+      1.087,
+      -48.979
+     ],
+     "quaternion": [
+      0,
+      -0.303122,
+      0,
+      0.952952
+     ]
+    },
+    "intrinsics": {
+     "cx": 480,
+     "cy": 360,
+     "fx": 995.6578979492188,
+     "fy": 995.8585815429688,
+     "height": 720,
+     "width": 960
+    }
+   }
+  },
+  {
+   "imageAsset": {
+    "assetId": "asset_9ba2a25dfdae8fe6926ea058c29c07d1"
+   },
+   "depth": {
+    "depthAsset": {
+     "assetId": "asset_76152572a3f694b8154e59723eba60a1"
+    }
+   },
+   "camera": {
+    "extrinsics": {
+     "coordinateSystem": "rub",
+     "position": [
+      18.637,
+      1.087,
+      -48.979
+     ],
+     "quaternion": [
+      0,
+      0.171151,
+      0,
+      0.985245
+     ]
+    },
+    "intrinsics": {
+     "cx": 480,
+     "cy": 360,
+     "fx": 995.6578979492188,
+     "fy": 995.8585815429688,
+     "height": 720,
+     "width": 960
+    }
+   }
+  },
+  {
+   "imageAsset": {
+    "assetId": "asset_746c72c69eea248144ddc9cc0dca749f"
+   },
+   "depth": {
+    "depthAsset": {
+     "assetId": "asset_9ae438e8e7d3bc6042a0b2b77bf817bd"
+    }
+   },
+   "camera": {
+    "extrinsics": {
+     "coordinateSystem": "rub",
+     "position": [
+      18.637,
+      1.087,
+      -48.979
+     ],
+     "quaternion": [
+      0,
+      -0.708897,
+      0,
+      0.705312
+     ]
+    },
+    "intrinsics": {
+     "cx": 480,
+     "cy": 360,
+     "fx": 995.6578979492188,
+     "fy": 995.8585815429688,
+     "height": 720,
+     "width": 960
+    }
+   }
+  },
+  {
+   "imageAsset": {
+    "assetId": "asset_a3914a6f97fda437c5ea1ca05404dcdf"
+   },
+   "depth": {
+    "depthAsset": {
+     "assetId": "asset_344634cdc851bc45553d486c1a290954"
+    }
+   },
+   "camera": {
+    "extrinsics": {
+     "coordinateSystem": "rub",
+     "position": [
+      18.637,
+      1.087,
+      -48.979
+     ],
+     "quaternion": [
+      0,
+      0.952952,
+      0,
+      0.303122
+     ]
+    },
+    "intrinsics": {
+     "cx": 480,
+     "cy": 360,
+     "fx": 995.6578979492188,
+     "fy": 995.8585815429688,
+     "height": 720,
+     "width": 960
+    }
+   }
+  },
+  {
+   "imageAsset": {
+    "assetId": "asset_494f6c48e2a7a50681f082d377eda568"
+   },
+   "depth": {
+    "depthAsset": {
+     "assetId": "asset_a78e1235492d580fb6c3a684a67d53eb"
+    }
+   },
+   "camera": {
+    "extrinsics": {
+     "coordinateSystem": "rub",
+     "position": [
+      22.109,
+      0.797,
+      -53.883
+     ],
+     "quaternion": [
+      0,
+      -0.303122,
+      0,
+      0.952952
+     ]
+    },
+    "intrinsics": {
+     "cx": 480,
+     "cy": 360,
+     "fx": 995.6578979492188,
+     "fy": 995.8585815429688,
+     "height": 720,
+     "width": 960
+    }
+   }
+  },
+  {
+   "imageAsset": {
+    "assetId": "asset_b01e20d62976e636287bd0c11f73da33"
+   },
+   "depth": {
+    "depthAsset": {
+     "assetId": "asset_96438b28fa613ebc42acb8f4707d1754"
+    }
+   },
+   "camera": {
+    "extrinsics": {
+     "coordinateSystem": "rub",
+     "position": [
+      22.109,
+      0.797,
+      -53.883
+     ],
+     "quaternion": [
+      0,
+      0.171151,
+      0,
+      0.985245
+     ]
+    },
+    "intrinsics": {
+     "cx": 480,
+     "cy": 360,
+     "fx": 995.6578979492188,
+     "fy": 995.8585815429688,
+     "height": 720,
+     "width": 960
+    }
+   }
+  },
+  {
+   "imageAsset": {
+    "assetId": "asset_12ae2260cc46422f59f02a411d7e2b8a"
+   },
+   "depth": {
+    "depthAsset": {
+     "assetId": "asset_12e4a2f3de407dbe3bbfe51af29f6e7f"
+    }
+   },
+   "camera": {
+    "extrinsics": {
+     "coordinateSystem": "rub",
+     "position": [
+      22.109,
+      0.797,
+      -53.883
+     ],
+     "quaternion": [
+      0,
+      -0.708897,
+      0,
+      0.705312
+     ]
+    },
+    "intrinsics": {
+     "cx": 480,
+     "cy": 360,
+     "fx": 995.6578979492188,
+     "fy": 995.8585815429688,
+     "height": 720,
+     "width": 960
+    }
+   }
+  },
+  {
+   "imageAsset": {
+    "assetId": "asset_610221966bf7f12272e31f9048967d1f"
+   },
+   "depth": {
+    "depthAsset": {
+     "assetId": "asset_70eb506671c74570ee93d0decbc2a5da"
+    }
+   },
+   "camera": {
+    "extrinsics": {
+     "coordinateSystem": "rub",
+     "position": [
+      22.109,
+      0.797,
+      -53.883
+     ],
+     "quaternion": [
+      0,
+      0.952952,
+      0,
+      0.303122
+     ]
+    },
+    "intrinsics": {
+     "cx": 480,
+     "cy": 360,
+     "fx": 995.6578979492188,
+     "fy": 995.8585815429688,
+     "height": 720,
+     "width": 960
+    }
+   }
+  },
+  {
+   "imageAsset": {
+    "assetId": "asset_583ba6c9b307fb9dfa71c3383698415c"
+   },
+   "depth": {
+    "depthAsset": {
+     "assetId": "asset_b0277519ae33fab1a3e19f53c45d09fd"
+    }
+   },
+   "camera": {
+    "extrinsics": {
+     "coordinateSystem": "rub",
+     "position": [
+      25.58,
+      0.508,
+      -58.788
+     ],
+     "quaternion": [
+      0,
+      -0.303122,
+      0,
+      0.952952
+     ]
+    },
+    "intrinsics": {
+     "cx": 480,
+     "cy": 360,
+     "fx": 995.6578979492188,
+     "fy": 995.8585815429688,
+     "height": 720,
+     "width": 960
+    }
+   }
+  },
+  {
+   "imageAsset": {
+    "assetId": "asset_cc1d5950aaa09e1a3228401c90bedc02"
+   },
+   "depth": {
+    "depthAsset": {
+     "assetId": "asset_b02449f913d2db594431a2c44220c68d"
+    }
+   },
+   "camera": {
+    "extrinsics": {
+     "coordinateSystem": "rub",
+     "position": [
+      25.58,
+      0.508,
+      -58.788
+     ],
+     "quaternion": [
+      0,
+      0.171151,
+      0,
+      0.985245
+     ]
+    },
+    "intrinsics": {
+     "cx": 480,
+     "cy": 360,
+     "fx": 995.6578979492188,
+     "fy": 995.8585815429688,
+     "height": 720,
+     "width": 960
+    }
+   }
+  },
+  {
+   "imageAsset": {
+    "assetId": "asset_56738d0cd4ac59ee944eb2f51e633d38"
+   },
+   "depth": {
+    "depthAsset": {
+     "assetId": "asset_11fd0d29f7592cae4f0a196a83557cd8"
+    }
+   },
+   "camera": {
+    "extrinsics": {
+     "coordinateSystem": "rub",
+     "position": [
+      25.58,
+      0.508,
+      -58.788
+     ],
+     "quaternion": [
+      0,
+      -0.708897,
+      0,
+      0.705312
+     ]
+    },
+    "intrinsics": {
+     "cx": 480,
+     "cy": 360,
+     "fx": 995.6578979492188,
+     "fy": 995.8585815429688,
+     "height": 720,
+     "width": 960
+    }
+   }
+  },
+  {
+   "imageAsset": {
+    "assetId": "asset_fac0bf15bb4045a59a37fbcfe6bc8674"
+   },
+   "depth": {
+    "depthAsset": {
+     "assetId": "asset_0d46a676c1b0a9fbb88b8d40fcc500c6"
+    }
+   },
+   "camera": {
+    "extrinsics": {
+     "coordinateSystem": "rub",
+     "position": [
+      25.58,
+      0.508,
+      -58.788
+     ],
+     "quaternion": [
+      0,
+      0.952952,
+      0,
+      0.303122
+     ]
+    },
+    "intrinsics": {
+     "cx": 480,
+     "cy": 360,
+     "fx": 995.6578979492188,
+     "fy": 995.8585815429688,
+     "height": 720,
+     "width": 960
+    }
+   }
+  },
+  {
+   "imageAsset": {
+    "assetId": "asset_c854e8669ad968ebb44326c496fb5197"
+   },
+   "depth": {
+    "depthAsset": {
+     "assetId": "asset_e228200e88bc4eecee711323a1336c2a"
+    }
+   },
+   "camera": {
+    "extrinsics": {
+     "coordinateSystem": "rub",
+     "position": [
+      29.051,
+      0.218,
+      -63.692
+     ],
+     "quaternion": [
+      0,
+      -0.303122,
+      0,
+      0.952952
+     ]
+    },
+    "intrinsics": {
+     "cx": 480,
+     "cy": 360,
+     "fx": 995.6578979492188,
+     "fy": 995.8585815429688,
+     "height": 720,
+     "width": 960
+    }
+   }
+  },
+  {
+   "imageAsset": {
+    "assetId": "asset_06e00f06ba5f063d325ce346abcf7db4"
+   },
+   "depth": {
+    "depthAsset": {
+     "assetId": "asset_cafe46ae99d9465ff3e83c51598d2497"
+    }
+   },
+   "camera": {
+    "extrinsics": {
+     "coordinateSystem": "rub",
+     "position": [
+      29.051,
+      0.218,
+      -63.692
+     ],
+     "quaternion": [
+      0,
+      0.171151,
+      0,
+      0.985245
+     ]
+    },
+    "intrinsics": {
+     "cx": 480,
+     "cy": 360,
+     "fx": 995.6578979492188,
+     "fy": 995.8585815429688,
+     "height": 720,
+     "width": 960
+    }
+   }
+  },
+  {
+   "imageAsset": {
+    "assetId": "asset_89f6e8607fe757be7f4c9494a255116d"
+   },
+   "depth": {
+    "depthAsset": {
+     "assetId": "asset_770f8cc9ca4547eebca8b1970d7d3063"
+    }
+   },
+   "camera": {
+    "extrinsics": {
+     "coordinateSystem": "rub",
+     "position": [
+      29.051,
+      0.218,
+      -63.692
+     ],
+     "quaternion": [
+      0,
+      -0.708897,
+      0,
+      0.705312
+     ]
+    },
+    "intrinsics": {
+     "cx": 480,
+     "cy": 360,
+     "fx": 995.6578979492188,
+     "fy": 995.8585815429688,
+     "height": 720,
+     "width": 960
+    }
+   }
+  },
+  {
+   "imageAsset": {
+    "assetId": "asset_551d677f74fece8e8c3df87611edaef0"
+   },
+   "depth": {
+    "depthAsset": {
+     "assetId": "asset_28bbaeb1e0c4d2d4dab9bf51e523228c"
+    }
+   },
+   "camera": {
+    "extrinsics": {
+     "coordinateSystem": "rub",
+     "position": [
+      29.051,
+      0.218,
+      -63.692
+     ],
+     "quaternion": [
+      0,
+      0.952952,
+      0,
+      0.303122
+     ]
+    },
+    "intrinsics": {
+     "cx": 480,
+     "cy": 360,
+     "fx": 995.6578979492188,
+     "fy": 995.8585815429688,
+     "height": 720,
+     "width": 960
+    }
+   }
+  },
+  {
+   "imageAsset": {
+    "assetId": "asset_628de9c34d6721883b80f9ad376444bd"
+   },
+   "depth": {
+    "depthAsset": {
+     "assetId": "asset_7daed47a718907012f59eb388b49119d"
+    }
+   },
+   "camera": {
+    "extrinsics": {
+     "coordinateSystem": "rub",
+     "position": [
+      32.408,
+      -0.1,
+      -68.661
+     ],
+     "quaternion": [
+      0,
+      -0.217659,
+      0,
+      0.976025
+     ]
+    },
+    "intrinsics": {
+     "cx": 480,
+     "cy": 360,
+     "fx": 995.6578979492188,
+     "fy": 995.8585815429688,
+     "height": 720,
+     "width": 960
+    }
+   }
+  },
+  {
+   "imageAsset": {
+    "assetId": "asset_5c6f4af751224196c6b32fb500ecd14c"
+   },
+   "depth": {
+    "depthAsset": {
+     "assetId": "asset_cb16ebf91d6f40f50971ad82d63e481d"
+    }
+   },
+   "camera": {
+    "extrinsics": {
+     "coordinateSystem": "rub",
+     "position": [
+      32.408,
+      -0.1,
+      -68.661
+     ],
+     "quaternion": [
+      0,
+      0.257613,
+      0,
+      0.966248
+     ]
+    },
+    "intrinsics": {
+     "cx": 480,
+     "cy": 360,
+     "fx": 995.6578979492188,
+     "fy": 995.8585815429688,
+     "height": 720,
+     "width": 960
+    }
+   }
+  },
+  {
+   "imageAsset": {
+    "assetId": "asset_8a24383d5d9abdd5b69c2c5e8ca7a2f7"
+   },
+   "depth": {
+    "depthAsset": {
+     "assetId": "asset_6fabdf5a58bda45555f8438346ee4114"
+    }
+   },
+   "camera": {
+    "extrinsics": {
+     "coordinateSystem": "rub",
+     "position": [
+      32.408,
+      -0.1,
+      -68.661
+     ],
+     "quaternion": [
+      0,
+      -0.643744,
+      0,
+      0.765241
+     ]
+    },
+    "intrinsics": {
+     "cx": 480,
+     "cy": 360,
+     "fx": 995.6578979492188,
+     "fy": 995.8585815429688,
+     "height": 720,
+     "width": 960
+    }
+   }
+  },
+  {
+   "imageAsset": {
+    "assetId": "asset_0e5fa2c3f842ba02dfe8652c72884b78"
+   },
+   "depth": {
+    "depthAsset": {
+     "assetId": "asset_34f417f193d6c8d89f94ad0ed9eb2640"
+    }
+   },
+   "camera": {
+    "extrinsics": {
+     "coordinateSystem": "rub",
+     "position": [
+      32.408,
+      -0.1,
+      -68.661
+     ],
+     "quaternion": [
+      0,
+      0.976025,
+      0,
+      0.217659
+     ]
+    },
+    "intrinsics": {
+     "cx": 480,
+     "cy": 360,
+     "fx": 995.6578979492188,
+     "fy": 995.8585815429688,
+     "height": 720,
+     "width": 960
+    }
+   }
+  },
+  {
+   "imageAsset": {
+    "assetId": "asset_710338e49fca25b7d0a494817f27bf16"
+   },
+   "depth": {
+    "depthAsset": {
+     "assetId": "asset_9b49124ba60ed90224ab998febd788a0"
+    }
+   },
+   "camera": {
+    "extrinsics": {
+     "coordinateSystem": "rub",
+     "position": [
+      34.955,
+      -0.623,
+      -74.086
+     ],
+     "quaternion": [
+      0,
+      -0.217659,
+      0,
+      0.976025
+     ]
+    },
+    "intrinsics": {
+     "cx": 480,
+     "cy": 360,
+     "fx": 995.6578979492188,
+     "fy": 995.8585815429688,
+     "height": 720,
+     "width": 960
+    }
+   }
+  },
+  {
+   "imageAsset": {
+    "assetId": "asset_43653e7357377b32206e7201b2795cc3"
+   },
+   "depth": {
+    "depthAsset": {
+     "assetId": "asset_f4da834f76562c3b3feb497156465d76"
+    }
+   },
+   "camera": {
+    "extrinsics": {
+     "coordinateSystem": "rub",
+     "position": [
+      34.955,
+      -0.623,
+      -74.086
+     ],
+     "quaternion": [
+      0,
+      0.257613,
+      0,
+      0.966248
+     ]
+    },
+    "intrinsics": {
+     "cx": 480,
+     "cy": 360,
+     "fx": 995.6578979492188,
+     "fy": 995.8585815429688,
+     "height": 720,
+     "width": 960
+    }
+   }
+  },
+  {
+   "imageAsset": {
+    "assetId": "asset_aab623a8a62a52d84e265ebb81975998"
+   },
+   "depth": {
+    "depthAsset": {
+     "assetId": "asset_4d7b0ade2aa8fc645f8caf6e082cab70"
+    }
+   },
+   "camera": {
+    "extrinsics": {
+     "coordinateSystem": "rub",
+     "position": [
+      34.955,
+      -0.623,
+      -74.086
+     ],
+     "quaternion": [
+      0,
+      -0.643744,
+      0,
+      0.765241
+     ]
+    },
+    "intrinsics": {
+     "cx": 480,
+     "cy": 360,
+     "fx": 995.6578979492188,
+     "fy": 995.8585815429688,
+     "height": 720,
+     "width": 960
+    }
+   }
+  },
+  {
+   "imageAsset": {
+    "assetId": "asset_0b17353d2017c1899594bbe59d46ce8b"
+   },
+   "depth": {
+    "depthAsset": {
+     "assetId": "asset_02499d98c1230f74357fea215b1d3f44"
+    }
+   },
+   "camera": {
+    "extrinsics": {
+     "coordinateSystem": "rub",
+     "position": [
+      34.955,
+      -0.623,
+      -74.086
+     ],
+     "quaternion": [
+      0,
+      0.976025,
+      0,
+      0.217659
+     ]
+    },
+    "intrinsics": {
+     "cx": 480,
+     "cy": 360,
+     "fx": 995.6578979492188,
+     "fy": 995.8585815429688,
+     "height": 720,
+     "width": 960
+    }
+   }
+  },
+  {
+   "imageAsset": {
+    "assetId": "asset_532233e33e60a5e64b603fb3ebb8dfd3"
+   },
+   "depth": {
+    "depthAsset": {
+     "assetId": "asset_72a98d555481b2331afab1062eff54d8"
+    }
+   },
+   "camera": {
+    "extrinsics": {
+     "coordinateSystem": "rub",
+     "position": [
+      37.501,
+      -1.146,
+      -79.512
+     ],
+     "quaternion": [
+      0,
+      -0.217659,
+      0,
+      0.976025
+     ]
+    },
+    "intrinsics": {
+     "cx": 480,
+     "cy": 360,
+     "fx": 995.6578979492188,
+     "fy": 995.8585815429688,
+     "height": 720,
+     "width": 960
+    }
+   }
+  },
+  {
+   "imageAsset": {
+    "assetId": "asset_3eac66552508f42937563dda15f69da3"
+   },
+   "depth": {
+    "depthAsset": {
+     "assetId": "asset_455a1bff28399af63dfb94b7458e9f33"
+    }
+   },
+   "camera": {
+    "extrinsics": {
+     "coordinateSystem": "rub",
+     "position": [
+      37.501,
+      -1.146,
+      -79.512
+     ],
+     "quaternion": [
+      0,
+      0.257613,
+      0,
+      0.966248
+     ]
+    },
+    "intrinsics": {
+     "cx": 480,
+     "cy": 360,
+     "fx": 995.6578979492188,
+     "fy": 995.8585815429688,
+     "height": 720,
+     "width": 960
+    }
+   }
+  },
+  {
+   "imageAsset": {
+    "assetId": "asset_908363614b0101e35196a939bfa7b9bc"
+   },
+   "depth": {
+    "depthAsset": {
+     "assetId": "asset_361f08ee7f5065ff644a257bdfc66571"
+    }
+   },
+   "camera": {
+    "extrinsics": {
+     "coordinateSystem": "rub",
+     "position": [
+      37.501,
+      -1.146,
+      -79.512
+     ],
+     "quaternion": [
+      0,
+      -0.643744,
+      0,
+      0.765241
+     ]
+    },
+    "intrinsics": {
+     "cx": 480,
+     "cy": 360,
+     "fx": 995.6578979492188,
+     "fy": 995.8585815429688,
+     "height": 720,
+     "width": 960
+    }
+   }
+  },
+  {
+   "imageAsset": {
+    "assetId": "asset_cca8469a2ec74806edb601eb969715c6"
+   },
+   "depth": {
+    "depthAsset": {
+     "assetId": "asset_e90e90f10e422306f54766360831b0a1"
+    }
+   },
+   "camera": {
+    "extrinsics": {
+     "coordinateSystem": "rub",
+     "position": [
+      37.501,
+      -1.146,
+      -79.512
+     ],
+     "quaternion": [
+      0,
+      0.976025,
+      0,
+      0.217659
+     ]
+    },
+    "intrinsics": {
+     "cx": 480,
+     "cy": 360,
+     "fx": 995.6578979492188,
+     "fy": 995.8585815429688,
+     "height": 720,
+     "width": 960
+    }
+   }
+  }
+ ],
+ "prompt": "{\"tags\":[\"bulgarian national revival architecture\",\"cobblestone street\",\"stone arcade\",\"veliko tarnovo\",\"terracotta roofs\",\"samovodska charshia\",\"historic district\",\"white plastered walls\",\"wooden shop fronts\"],\"short_caption\":\"A real photograph of Samovodska Charshia in Veliko Tarnovo, Bulgaria, featuring a stone arcade with round arches along a cobblestone street lined with Bulgarian National Revival houses.\",\"long_caption\":\"This scene captures Samovodska Charshia, the historic crafts street in Veliko Tarnovo, Bulgaria, under natural daylight. A long stone arcade with simple round arches supported by cylindrical columns runs along one side of the narrow cobblestone road. The architecture is characteristic of the Bulgarian National Revival period, with buildings featuring white plastered upper stories, dark wooden shop fronts at the street level, and terracotta-tiled roofs. Wrought iron balconies and vintage-style signage are attached to the building facades. The street is depicted as an empty pedestrian thoroughfare, devoid of people and vehicles as per the user's instructions. Small green bushes in square planters are arranged along the base of the arcade. The sky is bright with thin, high-altitude clouds, casting soft shadows across the stone surfaces.\",\"style_and_atmosphere\":\"An ordinary real-world photograph with a clear, objective style. The atmosphere is quiet and historic, emphasizing the traditional architectural textures and daylight of a preserved old town.\",\"lighting\":\"Natural daylight from a high, slightly diffused sun. The lighting is bright and even, creating soft, short shadows on the cobblestones and under the arcade arches.\",\"key_subjects_and_objects\":\"The primary structure is a stone arcade composed of multiple round arches resting on smooth stone columns. Adjacent to the arcade are Bulgarian National Revival houses with white-washed plaster on their upper levels and dark timber framing or wooden accents. The ground is paved with irregular gray cobblestones that follow the gentle curve of the street. Several shops feature dark wooden frames and large glass window panes. Wrought iron decorative elements, such as balcony railings and sign brackets, are attached to the masonry. Terracotta tiles cover the pitched roofs of the buildings. Square wooden planters containing low, green shrubs are placed at intervals along the street. A round sign with a red logo and Cyrillic text hangs from a decorative metal bracket near the top of the arcade.\",\"environment_and_layout\":\"The setting is an old European crafts street situated in a hilly urban area. The street is narrow and curves slightly, paved entirely with stone. On one side, a continuous stone arcade creates a covered walkway in front of the shop entrances. The opposite side of the street is lined with multi-story buildings that sit close to the roadway. These buildings are constructed from stone and wood, typical of 19th-century Bulgarian design. The layout is dense, with structures sharing walls and balconies overlooking the street. Small green bushes in planters provide a repetitive natural element along the pathway.\",\"visible_progression\":\"no clear progression is visible across the set.\",\"text_and_ocr\":{\"verbatim_strings\":[\"1858\",\"\u0425\u0410\u041d \u0425\u0410\u0414\u0416\u0418 \u041d\u0418\u041a\u041e\u041b\u0418\",\"Coca-Cola\",\"1858\",\"\u0425\u0410\u041d \u0425\u0410\u0414\u0416\u0418 \u041d\u0418\u041a\u041e\u041b\u0418\",\"\u0421\u0423\u0412\u0415\u041d\u0418\u0420\u0418\",\"\u0410\u0440\u0442\",\"\u0421\u0422\u0423\u0414\u0418\u041e\"],\"notes\":\"Text appears on building facades and hanging signs along the street. '1858' and '\u0425\u0410\u041d \u0425\u0410\u0414\u0416\u0418 \u041d\u0418\u041a\u041e\u041b\u0418' are on the pediment of a white building and on a circular hanging sign. 'Coca-Cola' is on a smaller red sign above the circular one. '\u0421\u0423\u0412\u0415\u041d\u0418\u0420\u0418' is on a small black sign under the arcade. '\u0410\u0440\u0442 \u0421\u0422\u0423\u0414\u0418\u041e' is on a yellow rectangular sign attached to a building wall.\"},\"artifacts_and_overlays\":\"none\"}",
+ "enhancePrompt": false,
+ "refine": true,
+ "regionOfInterest": {
+  "frame": {
+   "position": [
+    29.051,
+    0.218,
+    -63.692
+   ],
+   "quaternion": [
+    0.0,
+    -0.303122,
+    0.0,
+    0.952952
+   ],
+   "coordinateSystem": "rub"
+  },
+  "halfExtents": [
+   9.0,
+   9.0,
+   32.0
+  ]
+ }
+}

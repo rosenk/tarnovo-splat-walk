@@ -1,0 +1,45 @@
+{
+ "frames": [
+  {
+   "imageAsset": {
+    "assetId": "asset_44d646413e2b429c896054c8a7ec5683"
+   }
+  },
+  {
+   "imageAsset": {
+    "assetId": "asset_d6082be8de814c0fbf4a3e4765f1f0d0"
+   }
+  },
+  {
+   "imageAsset": {
+    "assetId": "asset_fc656cbc8d98426c90e30cbea9960902"
+   }
+  },
+  {
+   "imageAsset": {
+    "assetId": "asset_6107cfc926e348baa717adb7199b30e2"
+   }
+  },
+  {
+   "imageAsset": {
+    "assetId": "asset_35a305ac94ce49539a25ef052c86934d"
+   }
+  },
+  {
+   "imageAsset": {
+    "assetId": "asset_39524615780642b7babcb912cc7ee344"
+   }
+  },
+  {
+   "imageAsset": {
+    "assetId": "asset_2d6128dd38f2477983d269ef91eb0f67"
+   }
+  }
+ ],
+ "canonicalizeToFirstFrame": true,
+ "targetResolution": [
+  960,
+  720
+ ],
+ "refinePoses": true
+}

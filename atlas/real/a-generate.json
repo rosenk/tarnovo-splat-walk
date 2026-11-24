@@ -1,0 +1,782 @@
+{
+ "contextFrames": [
+  {
+   "imageAsset": {
+    "assetId": "asset_1e959e7e1dd2863a841d356fa40447b3"
+   },
+   "depth": {
+    "depthAsset": {
+     "assetId": "asset_9e56b8a3e18d6f15c62d997cf7aecee4"
+    }
+   },
+   "camera": {
+    "extrinsics": {
+     "coordinateSystem": "rub",
+     "position": [
+      18.637269973754883,
+      1.0867924690246582,
+      -48.97850036621094
+     ],
+     "quaternion": [
+      0.07426343355517871,
+      -0.08421560890720343,
+      0.009833172516698714,
+      0.9936276880055434
+     ]
+    },
+    "intrinsics": {
+     "cx": 480,
+     "cy": 360,
+     "fx": 995.6578979492188,
+     "fy": 995.8585815429688,
+     "height": 720,
+     "width": 960
+    }
+   }
+  },
+  {
+   "imageAsset": {
+    "assetId": "asset_656dae5a969cab3dae1068bcb5183948"
+   },
+   "depth": {
+    "depthAsset": {
+     "assetId": "asset_b94ba6e8dceb391732e6b104dca6b1c9"
+    }
+   },
+   "camera": {
+    "extrinsics": {
+     "coordinateSystem": "rub",
+     "position": [
+      32.092750549316406,
+      -0.0357186533510685,
+      -67.98905944824219
+     ],
+     "quaternion": [
+      0.06972277299388825,
+      -0.07409847390756609,
+      -0.0018045156176916414,
+      0.9948089740316972
+     ]
+    },
+    "intrinsics": {
+     "cx": 480,
+     "cy": 360,
+     "fx": 1001.4656372070312,
+     "fy": 1001.6676025390625,
+     "height": 720,
+     "width": 960
+    }
+   }
+  },
+  {
+   "imageAsset": {
+    "assetId": "asset_1f4515c8f1d70d15bf156bc73a4d1553"
+   },
+   "depth": {
+    "depthAsset": {
+     "assetId": "asset_c30ac74f3a6ef12f994ca5b78e424c66"
+    }
+   },
+   "camera": {
+    "extrinsics": {
+     "coordinateSystem": "rub",
+     "position": [
+      37.50087356567383,
+      -1.1458353996276855,
+      -79.5115966796875
+     ],
+     "quaternion": [
+      0.11229771482184527,
+      -0.12128256899709283,
+      0.025462701240405283,
+      0.9859165342709284
+     ]
+    },
+    "intrinsics": {
+     "cx": 480,
+     "cy": 360,
+     "fx": 1007.8246459960938,
+     "fy": 1008.0277099609375,
+     "height": 720,
+     "width": 960
+    }
+   }
+  }
+ ],
+ "targetCameras": [
+  {
+   "extrinsics": {
+    "position": [
+     18.637,
+     1.087,
+     -48.979
+    ],
+    "quaternion": [
+     0.0,
+     -0.303122,
+     0.0,
+     0.952952
+    ],
+    "coordinateSystem": "rub"
+   },
+   "intrinsics": {
+    "fx": 995.6578979492188,
+    "fy": 995.8585815429688,
+    "cx": 480,
+    "cy": 360,
+    "width": 960,
+    "height": 720
+   }
+  },
+  {
+   "extrinsics": {
+    "position": [
+     18.637,
+     1.087,
+     -48.979
+    ],
+    "quaternion": [
+     0.0,
+     0.171151,
+     0.0,
+     0.985245
+    ],
+    "coordinateSystem": "rub"
+   },
+   "intrinsics": {
+    "fx": 995.6578979492188,
+    "fy": 995.8585815429688,
+    "cx": 480,
+    "cy": 360,
+    "width": 960,
+    "height": 720
+   }
+  },
+  {
+   "extrinsics": {
+    "position": [
+     18.637,
+     1.087,
+     -48.979
+    ],
+    "quaternion": [
+     0.0,
+     -0.708897,
+     0.0,
+     0.705312
+    ],
+    "coordinateSystem": "rub"
+   },
+   "intrinsics": {
+    "fx": 995.6578979492188,
+    "fy": 995.8585815429688,
+    "cx": 480,
+    "cy": 360,
+    "width": 960,
+    "height": 720
+   }
+  },
+  {
+   "extrinsics": {
+    "position": [
+     18.637,
+     1.087,
+     -48.979
+    ],
+    "quaternion": [
+     0.0,
+     0.952952,
+     0.0,
+     0.303122
+    ],
+    "coordinateSystem": "rub"
+   },
+   "intrinsics": {
+    "fx": 995.6578979492188,
+    "fy": 995.8585815429688,
+    "cx": 480,
+    "cy": 360,
+    "width": 960,
+    "height": 720
+   }
+  },
+  {
+   "extrinsics": {
+    "position": [
+     22.109,
+     0.797,
+     -53.883
+    ],
+    "quaternion": [
+     0.0,
+     -0.303122,
+     0.0,
+     0.952952
+    ],
+    "coordinateSystem": "rub"
+   },
+   "intrinsics": {
+    "fx": 995.6578979492188,
+    "fy": 995.8585815429688,
+    "cx": 480,
+    "cy": 360,
+    "width": 960,
+    "height": 720
+   }
+  },
+  {
+   "extrinsics": {
+    "position": [
+     22.109,
+     0.797,
+     -53.883
+    ],
+    "quaternion": [
+     0.0,
+     0.171151,
+     0.0,
+     0.985245
+    ],
+    "coordinateSystem": "rub"
+   },
+   "intrinsics": {
+    "fx": 995.6578979492188,
+    "fy": 995.8585815429688,
+    "cx": 480,
+    "cy": 360,
+    "width": 960,
+    "height": 720
+   }
+  },
+  {
+   "extrinsics": {
+    "position": [
+     22.109,
+     0.797,
+     -53.883
+    ],
+    "quaternion": [
+     0.0,
+     -0.708897,
+     0.0,
+     0.705312
+    ],
+    "coordinateSystem": "rub"
+   },
+   "intrinsics": {
+    "fx": 995.6578979492188,
+    "fy": 995.8585815429688,
+    "cx": 480,
+    "cy": 360,
+    "width": 960,
+    "height": 720
+   }
+  },
+  {
+   "extrinsics": {
+    "position": [
+     22.109,
+     0.797,
+     -53.883
+    ],
+    "quaternion": [
+     0.0,
+     0.952952,
+     0.0,
+     0.303122
+    ],
+    "coordinateSystem": "rub"
+   },
+   "intrinsics": {
+    "fx": 995.6578979492188,
+    "fy": 995.8585815429688,
+    "cx": 480,
+    "cy": 360,
+    "width": 960,
+    "height": 720
+   }
+  },
+  {
+   "extrinsics": {
+    "position": [
+     25.58,
+     0.508,
+     -58.788
+    ],
+    "quaternion": [
+     0.0,
+     -0.303122,
+     0.0,
+     0.952952
+    ],
+    "coordinateSystem": "rub"
+   },
+   "intrinsics": {
+    "fx": 995.6578979492188,
+    "fy": 995.8585815429688,
+    "cx": 480,
+    "cy": 360,
+    "width": 960,
+    "height": 720
+   }
+  },
+  {
+   "extrinsics": {
+    "position": [
+     25.58,
+     0.508,
+     -58.788
+    ],
+    "quaternion": [
+     0.0,
+     0.171151,
+     0.0,
+     0.985245
+    ],
+    "coordinateSystem": "rub"
+   },
+   "intrinsics": {
+    "fx": 995.6578979492188,
+    "fy": 995.8585815429688,
+    "cx": 480,
+    "cy": 360,
+    "width": 960,
+    "height": 720
+   }
+  },
+  {
+   "extrinsics": {
+    "position": [
+     25.58,
+     0.508,
+     -58.788
+    ],
+    "quaternion": [
+     0.0,
+     -0.708897,
+     0.0,
+     0.705312
+    ],
+    "coordinateSystem": "rub"
+   },
+   "intrinsics": {
+    "fx": 995.6578979492188,
+    "fy": 995.8585815429688,
+    "cx": 480,
+    "cy": 360,
+    "width": 960,
+    "height": 720
+   }
+  },
+  {
+   "extrinsics": {
+    "position": [
+     25.58,
+     0.508,
+     -58.788
+    ],
+    "quaternion": [
+     0.0,
+     0.952952,
+     0.0,
+     0.303122
+    ],
+    "coordinateSystem": "rub"
+   },
+   "intrinsics": {
+    "fx": 995.6578979492188,
+    "fy": 995.8585815429688,
+    "cx": 480,
+    "cy": 360,
+    "width": 960,
+    "height": 720
+   }
+  },
+  {
+   "extrinsics": {
+    "position": [
+     29.051,
+     0.218,
+     -63.692
+    ],
+    "quaternion": [
+     0.0,
+     -0.303122,
+     0.0,
+     0.952952
+    ],
+    "coordinateSystem": "rub"
+   },
+   "intrinsics": {
+    "fx": 995.6578979492188,
+    "fy": 995.8585815429688,
+    "cx": 480,
+    "cy": 360,
+    "width": 960,
+    "height": 720
+   }
+  },
+  {
+   "extrinsics": {
+    "position": [
+     29.051,
+     0.218,
+     -63.692
+    ],
+    "quaternion": [
+     0.0,
+     0.171151,
+     0.0,
+     0.985245
+    ],
+    "coordinateSystem": "rub"
+   },
+   "intrinsics": {
+    "fx": 995.6578979492188,
+    "fy": 995.8585815429688,
+    "cx": 480,
+    "cy": 360,
+    "width": 960,
+    "height": 720
+   }
+  },
+  {
+   "extrinsics": {
+    "position": [
+     29.051,
+     0.218,
+     -63.692
+    ],
+    "quaternion": [
+     0.0,
+     -0.708897,
+     0.0,
+     0.705312
+    ],
+    "coordinateSystem": "rub"
+   },
+   "intrinsics": {
+    "fx": 995.6578979492188,
+    "fy": 995.8585815429688,
+    "cx": 480,
+    "cy": 360,
+    "width": 960,
+    "height": 720
+   }
+  },
+  {
+   "extrinsics": {
+    "position": [
+     29.051,
+     0.218,
+     -63.692
+    ],
+    "quaternion": [
+     0.0,
+     0.952952,
+     0.0,
+     0.303122
+    ],
+    "coordinateSystem": "rub"
+   },
+   "intrinsics": {
+    "fx": 995.6578979492188,
+    "fy": 995.8585815429688,
+    "cx": 480,
+    "cy": 360,
+    "width": 960,
+    "height": 720
+   }
+  },
+  {
+   "extrinsics": {
+    "position": [
+     32.408,
+     -0.1,
+     -68.661
+    ],
+    "quaternion": [
+     0.0,
+     -0.217659,
+     0.0,
+     0.976025
+    ],
+    "coordinateSystem": "rub"
+   },
+   "intrinsics": {
+    "fx": 995.6578979492188,
+    "fy": 995.8585815429688,
+    "cx": 480,
+    "cy": 360,
+    "width": 960,
+    "height": 720
+   }
+  },
+  {
+   "extrinsics": {
+    "position": [
+     32.408,
+     -0.1,
+     -68.661
+    ],
+    "quaternion": [
+     0.0,
+     0.257613,
+     0.0,
+     0.966248
+    ],
+    "coordinateSystem": "rub"
+   },
+   "intrinsics": {
+    "fx": 995.6578979492188,
+    "fy": 995.8585815429688,
+    "cx": 480,
+    "cy": 360,
+    "width": 960,
+    "height": 720
+   }
+  },
+  {
+   "extrinsics": {
+    "position": [
+     32.408,
+     -0.1,
+     -68.661
+    ],
+    "quaternion": [
+     0.0,
+     -0.643744,
+     0.0,
+     0.765241
+    ],
+    "coordinateSystem": "rub"
+   },
+   "intrinsics": {
+    "fx": 995.6578979492188,
+    "fy": 995.8585815429688,
+    "cx": 480,
+    "cy": 360,
+    "width": 960,
+    "height": 720
+   }
+  },
+  {
+   "extrinsics": {
+    "position": [
+     32.408,
+     -0.1,
+     -68.661
+    ],
+    "quaternion": [
+     0.0,
+     0.976025,
+     0.0,
+     0.217659
+    ],
+    "coordinateSystem": "rub"
+   },
+   "intrinsics": {
+    "fx": 995.6578979492188,
+    "fy": 995.8585815429688,
+    "cx": 480,
+    "cy": 360,
+    "width": 960,
+    "height": 720
+   }
+  },
+  {
+   "extrinsics": {
+    "position": [
+     34.955,
+     -0.623,
+     -74.086
+    ],
+    "quaternion": [
+     0.0,
+     -0.217659,
+     0.0,
+     0.976025
+    ],
+    "coordinateSystem": "rub"
+   },
+   "intrinsics": {
+    "fx": 995.6578979492188,
+    "fy": 995.8585815429688,
+    "cx": 480,
+    "cy": 360,
+    "width": 960,
+    "height": 720
+   }
+  },
+  {
+   "extrinsics": {
+    "position": [
+     34.955,
+     -0.623,
+     -74.086
+    ],
+    "quaternion": [
+     0.0,
+     0.257613,
+     0.0,
+     0.966248
+    ],
+    "coordinateSystem": "rub"
+   },
+   "intrinsics": {
+    "fx": 995.6578979492188,
+    "fy": 995.8585815429688,
+    "cx": 480,
+    "cy": 360,
+    "width": 960,
+    "height": 720
+   }
+  },
+  {
+   "extrinsics": {
+    "position": [
+     34.955,
+     -0.623,
+     -74.086
+    ],
+    "quaternion": [
+     0.0,
+     -0.643744,
+     0.0,
+     0.765241
+    ],
+    "coordinateSystem": "rub"
+   },
+   "intrinsics": {
+    "fx": 995.6578979492188,
+    "fy": 995.8585815429688,
+    "cx": 480,
+    "cy": 360,
+    "width": 960,
+    "height": 720
+   }
+  },
+  {
+   "extrinsics": {
+    "position": [
+     34.955,
+     -0.623,
+     -74.086
+    ],
+    "quaternion": [
+     0.0,
+     0.976025,
+     0.0,
+     0.217659
+    ],
+    "coordinateSystem": "rub"
+   },
+   "intrinsics": {
+    "fx": 995.6578979492188,
+    "fy": 995.8585815429688,
+    "cx": 480,
+    "cy": 360,
+    "width": 960,
+    "height": 720
+   }
+  },
+  {
+   "extrinsics": {
+    "position": [
+     37.501,
+     -1.146,
+     -79.512
+    ],
+    "quaternion": [
+     0.0,
+     -0.217659,
+     0.0,
+     0.976025
+    ],
+    "coordinateSystem": "rub"
+   },
+   "intrinsics": {
+    "fx": 995.6578979492188,
+    "fy": 995.8585815429688,
+    "cx": 480,
+    "cy": 360,
+    "width": 960,
+    "height": 720
+   }
+  },
+  {
+   "extrinsics": {
+    "position": [
+     37.501,
+     -1.146,
+     -79.512
+    ],
+    "quaternion": [
+     0.0,
+     0.257613,
+     0.0,
+     0.966248
+    ],
+    "coordinateSystem": "rub"
+   },
+   "intrinsics": {
+    "fx": 995.6578979492188,
+    "fy": 995.8585815429688,
+    "cx": 480,
+    "cy": 360,
+    "width": 960,
+    "height": 720
+   }
+  },
+  {
+   "extrinsics": {
+    "position": [
+     37.501,
+     -1.146,
+     -79.512
+    ],
+    "quaternion": [
+     0.0,
+     -0.643744,
+     0.0,
+     0.765241
+    ],
+    "coordinateSystem": "rub"
+   },
+   "intrinsics": {
+    "fx": 995.6578979492188,
+    "fy": 995.8585815429688,
+    "cx": 480,
+    "cy": 360,
+    "width": 960,
+    "height": 720
+   }
+  },
+  {
+   "extrinsics": {
+    "position": [
+     37.501,
+     -1.146,
+     -79.512
+    ],
+    "quaternion": [
+     0.0,
+     0.976025,
+     0.0,
+     0.217659
+    ],
+    "coordinateSystem": "rub"
+   },
+   "intrinsics": {
+    "fx": 995.6578979492188,
+    "fy": 995.8585815429688,
+    "cx": 480,
+    "cy": 360,
+    "width": 960,
+    "height": 720
+   }
+  }
+ ],
+ "prompt": "Samovodska charshia, the old crafts street in Veliko Tarnovo, Bulgaria: a stone arcade with round arches on the left, cobblestones, Bulgarian National Revival houses with white plastered upper floors, wooden shop fronts and terracotta roofs. Real photograph, natural daylight. Empty street, no people, no cars.",
+ "returnDepth": true
+}

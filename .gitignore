@@ -1,0 +1,16 @@
+node_modules
+dist
+*.log
+
+# Atlas working data: keep scripts, requests, credits and contact sheets only.
+# Responses (*-op.json, operation.json) hold signed download links and account IDs.
+atlas/**
+!atlas/**/
+!atlas/**/*.py
+!atlas/**/*.sh
+!atlas/**/*.json
+!atlas/**/contact.jpg
+!atlas/real/candidates.jpg
+!atlas/real/samovodska/assets.txt
+atlas/**/*-op.json
+atlas/**/operation.json
